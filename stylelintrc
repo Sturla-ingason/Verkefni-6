@@ -1,6 +1,0 @@
-{
-    "extends" : ["stylelin-config-sass-guidelines"],
-    "rules" : {
-        
-    }
-}

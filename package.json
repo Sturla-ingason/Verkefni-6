@@ -4,8 +4,7 @@
   "description": "verkefni6",
   "main": "index.js",
   "scripts": {
-    "browser-sync": "browser-sync start --server --files index.html styles.css",
-    "sass": "sass styless.scss styles.css -w"
+    "dev": "browser-sync start --server --files index.html styles.css sass styless.scss styles.css -w"
   },
   "author": "",
   "license": "ISC",
